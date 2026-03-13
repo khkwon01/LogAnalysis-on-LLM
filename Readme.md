@@ -19,13 +19,7 @@ Basic architecture
 
 
 
-Test result
-environment
-input channel (slack) : input-event
-output channel (slack) : out-event
-input event (example)
-
-
-output event that analyzed events (example)
-
-
+### Test result
+#### environment
+- input channel (slack) : input-event
+- output channel (slack) : out-event
