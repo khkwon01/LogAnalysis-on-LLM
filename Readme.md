@@ -19,7 +19,6 @@ Basic architecture
 
 
 
-
 Test result
 environment
 input channel (slack) : input-event
